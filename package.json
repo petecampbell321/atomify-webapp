@@ -1,0 +1,8 @@
+{
+  "name": "atomify-webapp",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:petecampbell321/atomify-webapp.git",
+  "author": "Peter Campbell <pcampbell52@qub.ac.uk>",
+  "license": "MIT"
+}
